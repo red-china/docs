@@ -138,7 +138,7 @@ react/later <code>
 <code>    : 包含至少一个响应源的代码区块 (block!)。
 <func>    : 包含至少一个响应源的函数 (function!)。
 <objects> : 用作一个响应函数参数的内含对象的列表 (内含 object! 值的 block!)。
-<source>  : 原字 'all，或一个对象，或一个内含对象的列表 (word! object! block!)。
+<source>  : 原词 'all，或一个对象，或一个内含对象的列表 (word! object! block!)。
 
 Returns   : 在之后用来引用的 <code> 或 <func> 。
 ----
